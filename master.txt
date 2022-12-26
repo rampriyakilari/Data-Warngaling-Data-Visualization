@@ -1,3 +1,0 @@
-This is my first repositary in the git client/bash.
-
-make some changes in this file.
